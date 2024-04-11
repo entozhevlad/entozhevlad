@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 There is my GitHub profile!
+🌱 I’m Зrd year "Software Engineering" student of Tomsk Polytechnic University. 
+   Python Developer
 <!--
 **aliquis22/aliquis22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
