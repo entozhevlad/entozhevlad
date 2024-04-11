@@ -1,4 +1,4 @@
-### Hi there 👋 There is my GitHub profile!
+### Hi there 👋 My name is Vladislav and there is my GitHub profile!
 🌱 I’m Зrd year "Software Engineering" student of Tomsk Polytechnic University. 
 ### Python Developer
 <!--
