@@ -14,21 +14,22 @@
 
 <div align="center"> 
    <a href="mailto:vladislav.zarubin113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/vladislav-zarubin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin" /><br>
   </a>
   <a href="https://t.me/vzarubin" target="_blank">
      <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" target="_blank"/> 
   </a>
 </div>
+  
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,git," /><br>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,redis,kafka,go" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,git,postman,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,redis,kafka,go,grafana,prometheus" /><br>
 </div>
 
 <div align="center">
@@ -47,4 +48,8 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=entozhevlad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
+<h2 align="center">⚒️ Technologies and languages ​​I interacted with ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,cpp,net,linux,rabbitmq,visualstudio,bootstrap,html,css,js,selenium,sqlite," /><br>
+</div>
