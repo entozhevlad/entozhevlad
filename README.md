@@ -1,39 +1,50 @@
-### Hi there 👋 My name is Vladislav and there is my GitHub profile!
-🌱 I’m 4th year "Software Engineering" student of Tomsk Polytechnic University. 
-### Python Developer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=entozhevlad.entozhevlad" />
 
-- 🔭 I currently work at Tomsk Polytechnic University as web-programming a teaching assistant.
-- 👀 Looking for opportunities to get an internship or a job as a Python Developer
-<!--
-**aliquis22/aliquis22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Vladislav;There+is+my+GitHub+profile!" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate Python Developer from Russia</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<p>🌱 4th year "Software Engineering" student of Tomsk Polytechnic University.</h3>
+<p>🔭 I currently work at Tomsk Polytechnic University as web-programming a teaching assistant.</h3>
+<p>👀 Looking for opportunities to get an internship or a job as a Python Developer.</h3> 
+</div>
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
-![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi&labelColor=black)
-![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&labelColor=black)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&labelColor=black)\
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&labelColor=black)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&labelColor=black)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#B22222)
-![PostgreSQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#696969)
+<div align="center"> 
+   <a href="mailto:vladislav.zarubin113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/vladislav-zarubin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://t.me/vzarubin" target="_blank">
+     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" target="_blank"/> 
+  </a>
+</div>
 
-### 📫 How to reach me:
-###
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vzarubin)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/entozhevlad)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&labelColor=black)]([https://vk.com/entozhevlad](https://www.linkedin.com/in/vladislav-zarubin))
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,git," /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,kubernetes,nginx,redis,kafka,go" /><br>
+</div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/entozhevlad/entozhevlad/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=entozhevlad&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=entozhevlad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=entozhevlad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
