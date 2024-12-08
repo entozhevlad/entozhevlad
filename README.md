@@ -8,8 +8,8 @@
 
 <div align="center">
 <p>🌱 4th year "Software Engineering" student of Tomsk Polytechnic University.</h3>
-<p>🔭 I currently work at Tomsk Polytechnic University as web-programming a teaching assistant.</h3>
-<p>👀 Looking for opportunities to get an internship or a job as a Python Developer.</h3> 
+<p>🔭 Assistant teacher at Tomsk Polytechnic University on the Web-programming course</h3>
+<p>👨‍💻 Working in the "Center of Financial Technologies" as a python backend developer.</h3> 
 </div>
 
 <div align="center"> 
