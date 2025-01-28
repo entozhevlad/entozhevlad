@@ -9,7 +9,7 @@
 <div align="center">
 <p>🌱 4th year "Software Engineering" student of Tomsk Polytechnic University.</h3>
 <p>🔭 Assistant teacher at Tomsk Polytechnic University on the Web-programming course</h3>
-<p>👨‍💻 Working in the "Center of Financial Technologies" as a python backend developer.</h3> 
+<p>👨‍💻 Working in the fintech as a python backend developer.</h3> 
 </div>
 
 <div align="center"> 
