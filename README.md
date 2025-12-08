@@ -7,9 +7,9 @@
 <h3 align="center">A passionate Python Developer from Russia</h3>
 
 <div align="center">
-<p>🌱 4th year "Software Engineering" student of Tomsk Polytechnic University.</h3>
-<p>🔭 Assistant teacher at Tomsk Polytechnic University on the Web-programming course</h3>
-<p>👨‍💻 Working in the fintech as a python backend developer.</h3> 
+<p>🌱 Bachelor of Software Engineering. Tomsk Polytechnic University.</h3>
+<p>🔭 Master's student in Design and Development of Big Data Systems. ITMO University</h3>
+<p>👨‍💻 Koronatech Python backend dev.</h3> 
 </div>
 
 <div align="center"> 
