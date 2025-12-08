@@ -8,7 +8,7 @@
 
 <div align="center">
 <p>🌱 Bachelor of Software Engineering. Tomsk Polytechnic University.</h3>
-<p>🔭 Master's student in Design and Development of Big Data Systems. ITMO University</h3>
+<p>🔭 Master's student in Design and Development of Big Data Systems. ITMO University.</h3>
 <p>👨‍💻 Koronatech Python backend dev.</h3> 
 </div>
 
